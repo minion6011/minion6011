@@ -25,9 +25,3 @@
 
 # 🧰 Languages and Tools
 <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,cs,bash,linux,arduino"/>
-
-<br>
-
-# 📊 My stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=minion6011&theme=highcontrast&hide_border=true&locale=it)](https://git.io/streak-stats)
