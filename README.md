@@ -24,4 +24,4 @@
 </p>
 
 # 🧰 Languages and Tools
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,cs,bash,linux,arduino"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,cs,sqlite,bash,linux,arduino"/>
